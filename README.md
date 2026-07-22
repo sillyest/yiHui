@@ -4,6 +4,17 @@
 
 医烩（yiHui）是一款面向 CDISC 标准（SDTM / ADaM 等）的本地桌面工具，用于浏览标准结构、查看变量元数据，并基于内置规则对研究数据进行校验。前端采用 Tauri 2 + Svelte 5，后端基于 Rust，规则引擎使用 Polars。
 
+## 软件截图
+
+<p align="center">
+  <img src="./main-window-en.png" width="700" alt="主界面-英文" />
+  <br/>
+</p>
+<p align="center">
+  <img src="./main-window-zh.png" width="700" alt="主界面-中文" />
+  <br/>
+</p>
+
 ## 功能特性
 
 - **标准浏览**：按模型 / 机构 / 版本加载并浏览 CDISC 校验规则标准。
