@@ -7,12 +7,9 @@
 ## 软件截图
 
 <p align="center">
-  <img src="./main-window-en.png" width="700" alt="主界面-英文" />
-  <br/>
-</p>
-<p align="center">
-  <img src="./main-window-zh.png" width="700" alt="主界面-中文" />
-  <br/>
+  <img src="./main-window-en.png" width="48%" alt="主界面-英文" />
+  &nbsp;
+  <img src="./main-window-zh.png" width="48%" alt="主界面-中文" />
 </p>
 
 ## 功能特性
